@@ -1,0 +1,16 @@
+{
+  "name": "schemavalidator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "joi": "^17.9.2",
+    "prompt-sync": "^4.2.0",
+    "winston": "^3.10.0"
+  }
+}

@@ -1,0 +1,6 @@
+error : Aug-03-2023 16:53:53 : 	"userId" length must be at least 6 characters long
+error : Aug-03-2023 16:54:39 : 	"userAge" must be greater than or equal to 18
+error : Aug-03-2023 16:55:22 : 	"userContact" must be greater than or equal to 1000000000
+error : Aug-03-2023 17:00:31 : 	"userId" length must be at least 6 characters long
+info : Aug-03-2023 17:01:15 : 	Accepted values from user
+error : Aug-03-2023 17:03:41 : 	"userEmail" must be a valid email
